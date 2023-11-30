@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qrlandry.github.io/DelTaco/static/css/main.5287f272.css",
+    "main.js": "/qrlandry.github.io/DelTaco/static/js/main.2eda4864.js",
+    "static/media/Dog-Sombrero.jpg": "/qrlandry.github.io/DelTaco/static/media/Dog-Sombrero.6c165c88636468a17fdb.jpg",
+    "static/media/xtaco_pattern.jpg": "/qrlandry.github.io/DelTaco/static/media/xtaco_pattern.4ac011551372c17a26d7.jpg",
+    "index.html": "/qrlandry.github.io/DelTaco/index.html",
+    "main.5287f272.css.map": "/qrlandry.github.io/DelTaco/static/css/main.5287f272.css.map",
+    "main.2eda4864.js.map": "/qrlandry.github.io/DelTaco/static/js/main.2eda4864.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5287f272.css",
+    "static/js/main.2eda4864.js"
+  ]
+}
