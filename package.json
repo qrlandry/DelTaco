@@ -38,6 +38,12 @@
       "not dead",
       "not op_mini all"
     ],
+    "react-scripts": {
+      "configOverrides": {
+        "basename": "/DelTaco"
+      }
+    },
+    
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
