@@ -27,7 +27,8 @@ const Nav = () => {
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-red-700 bg-white fixed z-20">
       <div>
-        <h1 className="text-5xl ml-2"> Del Taco </h1>
+        <h1 className="text-5xl ml-2"> Del Taco of Hershey </h1>
+        <p className="text-sm ml-2"> 121 Towne Square Drive, Hershey PA 17033 </p>
       </div>
 
       <ul className="hidden md:flex">

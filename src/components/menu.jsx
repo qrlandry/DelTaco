@@ -4,9 +4,9 @@ const Menu = () => {
   return (
     <div
       name="Menu"
-      className="w-full h-screen bg-gradient-to-b from-red-400 to-white z-0"
+      className="w-full h-screen bg-gradient-to-b from-red-400 to-white z-0 flex items-center"
     >
-      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
+      <div className="max-w-screen-lg p-4 mx-auto flex flex-col text-center">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-[#e7af00] text-red-700">
             {" "}
