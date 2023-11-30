@@ -1,22 +1,10 @@
 {
-  "homepage": "qrlandry.github.io/DelTaco/",
+  "homepage": "https://qrlandry.github.io/DelTaco/",
   "name": "del-taco",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "autoprefixer": "^10.4.16",
-    "gh-pages": "^6.1.0",
-    "postcss": "^8.4.31",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-responsive": "^9.0.2",
-    "react-scripts": "5.0.1",
-    "react-scroll": "^1.9.0",
-    "tailwindcss": "^3.3.5",
-    "web-vitals": "^2.1.4"
+
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,18 +20,13 @@
       "react-app/jest"
     ]
   },
+  "browserslist": "> 0.2%, not dead, not op_mini all",
+  "react-scripts": {
+    "configOverrides": {
+      "basename": "/DelTaco"
+    }
+  },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "react-scripts": {
-      "configOverrides": {
-        "basename": "/DelTaco"
-      }
-    },
-    
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
