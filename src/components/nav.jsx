@@ -93,7 +93,7 @@ const Nav = () => {
             <a
               className="flex justify-between items-center w-full text-white text-sm"
               target="_blank"
-              href="https://drive.google.com/file/d/1kHPZZuO4hTAsBVokyuP0wGWnOLhlNgyA/view?usp=sharing"
+              href="https://www.facebook.com/"
             >
               Facebook{" "}
               <div className="pr-4">
@@ -126,7 +126,7 @@ const Nav = () => {
               <a
                 className="flex justify-between items-center w-full text-white text-xs"
                 target="_blank"
-                href="https://drive.google.com/file/d/1kHPZZuO4hTAsBVokyuP0wGWnOLhlNgyA/view?usp=sharing"
+                href="https://www.facebook.com/"
               >
                 Facebook{" "}
                 <div className="pr-3">
