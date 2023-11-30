@@ -58,7 +58,12 @@ const Nav = () => {
               className="px-4 cursor-pointer capitalize py-6 text-4xl"
             >
               {" "}
-              <Link onClick={() => setNav(!nav)} to={link} smooth duration={500}>
+              <Link
+                onClick={() => setNav(!nav)}
+                to={link}
+                smooth
+                duration={500}
+              >
                 {link}
               </Link>{" "}
             </li>
@@ -73,7 +78,7 @@ const Nav = () => {
             via-[#5851DB] via-[#833AB4] via-[#C13584] via-[#E1306C] via-[#FD1D1D] via-[#F56040] via-[#F77737] via-[#FCA545] to-[#FFDC80]"
           >
             <a
-              className="flex justify-between items-center w-full text-white"
+              className="flex justify-between items-center w-full text-white text-sm"
               target="_blank"
               href="https://www.instagram.com/deltacohershey/?igshid=MzMyNGUyNmU2YQ%3D%3D"
             >
@@ -85,7 +90,7 @@ const Nav = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300 bg-blue-600">
             <a
-              className="flex justify-between items-center w-full text-white"
+              className="flex justify-between items-center w-full text-white text-sm"
               target="_blank"
               href="https://drive.google.com/file/d/1kHPZZuO4hTAsBVokyuP0wGWnOLhlNgyA/view?usp=sharing"
             >
@@ -106,7 +111,7 @@ const Nav = () => {
             via-[#5851DB] via-[#833AB4] via-[#C13584] via-[#E1306C] via-[#FD1D1D] via-[#F56040] via-[#F77737] via-[#FCA545] to-[#FFDC80]"
             >
               <a
-                className="flex justify-between items-center w-full text-white"
+                className="flex justify-between items-center w-full text-white text-[10px]"
                 target="_blank"
                 href="https://www.instagram.com/deltacohershey/?igshid=MzMyNGUyNmU2YQ%3D%3D"
               >
@@ -118,7 +123,7 @@ const Nav = () => {
             </li>
             <li className="w-[120px] h-[40px] flex justify-between items-center ml-[-80px] hover:ml-[0px] duration-300 bg-blue-600">
               <a
-                className="flex justify-between items-center w-full text-white"
+                className="flex justify-between items-center w-full text-white text-xs"
                 target="_blank"
                 href="https://drive.google.com/file/d/1kHPZZuO4hTAsBVokyuP0wGWnOLhlNgyA/view?usp=sharing"
               >
